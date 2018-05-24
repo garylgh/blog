@@ -8,7 +8,7 @@ tags:
 ### 环境
   1. 远程机器
 ```
-  host: 10.94.96.106
+  host: xx.xx.96.106
   port: 9000
   wsport: 9229
 ```
@@ -37,7 +37,7 @@ tags:
 
   4. 在dev tools里给想访问的代码打上断点，通过浏览器访问远程接口，代码将终止在断点处
   
-    此处访问：http://manhattan-mis-test.intra.xiaojukeji.com:9000/#/fatman/offer/list
+    此处访问：http://xxx.xxx.com:9000/#/list
 
 ### 参考
   https://nodejs.org/en/docs/guides/debugging-getting-started/
